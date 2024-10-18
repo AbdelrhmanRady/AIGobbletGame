@@ -1,5 +1,10 @@
 # AIGobbletGame
 
+**Game EXE Link:**
+
+https://drive.google.com/file/d/1abzjzQP1coYAbRfBYllSxO6r1TS2VctC/view?usp=sharing
+
+
 **Chosen Programming language:**
 
 ![image](https://github.com/user-attachments/assets/1d5891a6-6bc5-4580-a7e0-4155a3fa2542)
